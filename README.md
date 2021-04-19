@@ -1,1 +1,1 @@
-# Computer_Vision-Classification-image-
+# Classification-Image-CNN-PyTorch
